@@ -1,0 +1,36 @@
+body{
+    font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+    background-image: url(/home/logan/repos/odin-recipes/Images/02.jpg);
+    text-align: center;
+    color: white;
+    image
+    height: 500px; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+}
+
+div{
+    margin: auto;
+    width: 50%;
+
+}
+
+h1{
+    font-size: 42px;
+    font-weight: bold;
+}
+
+button{
+    background-color: rgb(153, 153, 153);
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    font-size: 24px;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+img {
+    height: auto;
+    width: 550px;
+}
